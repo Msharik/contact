@@ -1,0 +1,24 @@
+# .NET related
+bin/
+obj/
+*.swp
+*.user
+*.vspscc
+.vscode/
+.vs/
+
+# Node related
+node_modules/
+build/
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
